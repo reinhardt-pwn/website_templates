@@ -20,6 +20,7 @@ Do not deploy cloned websites to the public internet. Keep your experiments with
 ### No Misuse:
 Do not use these templates to deceive or harm others. Misuse of these resources for phishing, scamming, or any form of unethical behavior is strongly discouraged.
 
-Disclaimer: The author and contributors are not responsible for any misuse, damage, or legal consequences resulting from the use of these templates. By accessing and using this repository, you agree to abide by these guidelines and take full responsibility for your actions.
+### Disclaimer:
+The author and contributors are not responsible for any misuse, damage, or legal consequences resulting from the use of these templates. By accessing and using this repository, you agree to abide by these guidelines and take full responsibility for your actions.
 
 Always prioritize ethical behavior, adhere to legal standards, and use these resources responsibly to enhance your skills in a controlled and ethical manner.
